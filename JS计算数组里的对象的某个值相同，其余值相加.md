@@ -31,4 +31,4 @@ for(var k in temp) {
 alert(JSON.stringify(newfood));
 ```
 
-原文: https://blog.csdn.net/qq_34117170/article/details/81058709
+链接：https://blog.csdn.net/qq_34117170/article/details/81058709
