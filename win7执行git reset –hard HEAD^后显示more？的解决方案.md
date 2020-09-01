@@ -14,7 +14,7 @@
 
 2. 加一个^：git reset --hard HEAD^^
 
-3. ^换成~：git reset --hard HEAD~或者git reset --hard HEAD~1
+3. ^换成~：git reset --hard HEAD\~或者git reset --hard HEAD~1
 
 4. ~后面的数字表示恢复几次提交，默认为1
 
